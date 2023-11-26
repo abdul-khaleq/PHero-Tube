@@ -1,0 +1,16 @@
+button{
+    border: none;
+    padding: 8px 18px;
+    border-radius: 5px;
+}
+.fa-certificate{
+    color: #003096;
+}
+
+.blog a{
+    text-decoration: none;
+    color: #fff;
+}
+  .active{
+    background-color: red;
+  }
